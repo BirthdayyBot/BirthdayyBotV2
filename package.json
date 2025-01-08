@@ -63,7 +63,7 @@
 		"dayjs": "^1.11.13",
 		"discord-api-types": "^0.37.98",
 		"discord.js": "^14.16.2",
-		"i18next": "^23.15.1",
+		"i18next": "^24.2.1",
 		"reflect-metadata": "^0.2.2"
 	},
 	"devDependencies": {
